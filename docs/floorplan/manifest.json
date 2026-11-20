@@ -106,7 +106,7 @@
     "3ds/core/polished_action_data.h": "6212e082d986e8c3a8319af6b692fea76f262450258a4241724ae46729aca97a",
     "LICENSE": "e57f1c320b8cf8798a7d2ff83a6f9e06a33a03585f6e065fea97f1d86db84052",
     "NOTICE": "b914d981eb266c68973b9d678a456a1829ed631e4cc9cda82d9bb2cc3ae61398",
-    "docs/POCKET.md": "d8a93518e03e27c875f8bb02787cd5176eac49ba76d46c0960e0fd38850d494a",
+    "docs/POCKET.md": "5c063ad685d64b52633bc681a9a1db429b5d06c9574e826aa437f4747d0525e2",
     "libretro/CMakeLists.txt": "c48961844e9d1321224b90e308e7fe00394b8ed08a56d3db6a97c3b050caab09",
     "libretro/aarch64.cmake": "8cfa1fc1223a461f0e7b96eabca5a55df023086096312780023bfd49befc6ab6",
     "libretro/armgba/CMakeLists.txt": "6842b10e121ab00daba76e529a93b824e4c56f9ca8b88f29f8402a11f737e2f6",
@@ -237,5 +237,5 @@
     "linux/wild.c": "6ca55c69912645120a89ecb8e3e1dc481ee23603d36eb2a29625eef34ec7594e",
     "linux/wild.h": "d057a5df05ddc169d6c7c19da8ce150c308c1eac40690722049c4f1f43f927ba"
   },
-  "html_sha256": "e7f8b960d80ac42adfd7ee5b5321583105defb37f8c7941ef33d4c64ad53d418"
+  "html_sha256": "4cf015474290ecc05aa62d670f4fbe7669daded1376fbab783441dcc964beda3"
 }

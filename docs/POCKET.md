@@ -15,7 +15,7 @@ GitHub Actions are disabled until inherited workflows and the new toolchains hav
 - **Anbernic RG34XXSP:** H700 Cortex-A53, vendor display specification 720x480. Start from the upstream AArch64 Linux/core path, then qualify the actual firmware ABI, controls, audio and lid behavior. No device build or runtime test yet.
 - **Anbernic RG35XXH:** H700 Cortex-A53, vendor display specification 640x480. Start from the same native path with a separate device acceptance record. No device build or runtime test yet.
 
-The owner's model spellings in the request were Miyoo Mini Plus, Miyoo Mini v4, RG34XXSP and RG35XXH. RG34XXSP is **not** RG35XXSP. Firmware is not established by the model name. No reflash is required or authorized by this source fork.
+The owner selected **Onion for both Miyoo models** and **muOS for both Anbernic models**. Exact installed versions remain unknown and must be qualified before device acceptance. The model spellings in the request were Miyoo Mini Plus, Miyoo Mini v4, RG34XXSP and RG35XXH. RG34XXSP is **not** RG35XXSP. No reflash is required or authorized by this source fork.
 
 ## Product direction, not implemented defaults
 

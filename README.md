@@ -1,3 +1,15 @@
+# PokeDaisy Pocket fork
+
+**Target scope:** Miyoo Mini Plus, Miyoo Mini v4, Anbernic RG34XXSP and RG35XXH.
+
+This is a public source fork of PokeDaisy by Lidor Itzhari, pinned to v1.6.1 on branch `pocket`. **These four ports are not built or device-tested yet.** The upstream downloads and performance reports below are not Pocket compatibility claims.
+
+- [Pocket scope, platform gates and acceptance](docs/POCKET.md)
+- [Understand this app](docs/floorplan/index.html): download the self-contained HTML and open it locally for the interactive native-path tour.
+- [Map coverage and freshness contract](docs/floorplan/README.md)
+
+The original upstream README follows unchanged.
+
 <div align="center">
 
 <img src="https://pokedaisy.com/og.png" alt="PokeDaisy: Game Boy, Game Boy Color, GBA and DS player with a live companion, on two screens or one, for Pokemon games and ROM hacks, free and open source" width="100%">
